@@ -1,3 +1,8 @@
 .board {
   cursor : pointer;
+  display : inline-block;
+
+  & .board__row {
+    display : flex;
+  }
 }
