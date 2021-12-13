@@ -2,7 +2,19 @@
   cursor : pointer;
   display : inline-block;
 
+  & .board__status {
+    margin-bottom : 1rem;
+    font-size : 1.2rem;
+  }
+
   & .board__row {
     display : flex;
+  }
+
+  & .board__reset {
+    cursor : pointer;
+    padding : 1rem;
+    margin-top: 1rem;
+    font-weight : bold;
   }
 }
