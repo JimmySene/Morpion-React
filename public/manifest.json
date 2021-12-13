@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Morpion React",
+  "name": "Morpion avec React v17",
   "icons": [
     {
       "src": "favicon.ico",
